@@ -1,0 +1,9 @@
+name: app1
+channels:
+- conda-forge
+- defaults
+dependencies:
+- numpy=1.14.0
+- pip=9.0.1
+- python=3.6.4
+- django=2.1.2
